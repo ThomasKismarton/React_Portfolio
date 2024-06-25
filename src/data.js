@@ -1,60 +1,45 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Association Boundary Map",
+    subtitle: "GIS Data",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "An interactive mapping project used to drive governance for Washington Youth Soccer boundaries.",
+    image: "./Boundary_Map.png",
+    link: "https://google.com",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Uniform Distribution",
+    subtitle: "PowerBI and Python",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "Scripting and visualization for the management of uniform inventory.",
+    image: "./Uniform_Dashboard.png",
+    link: "https://google.com",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "",
+    subtitle: "Data Analysis + Machine Learning",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "An IBM-guided project detailing the process of synthesizing, visualizing, and ultimately leveraging rocket launch data to construct a machine learning model.",
+    image: "./GitHub_Repo.png",
+    link: "https://github.com/ThomasKismarton/capstone_repo",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Team Generator",
+    subtitle: "Full-Stack Side Project",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
-  },
-];
-
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "Small scale side project to familiarize myself with Docker, SQL, Python, and REST APIs outside of a classroom environment.",
+    image: "./",
+    link: "https://google.com",
   },
 ];
 
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
+  "Pandas",
   "Node",
-  "GraphQL",
-  "Material UI",
+  "Keras",
+  "Python",
+  "Docker",
+  "Folium / ArcGIS",
 ];

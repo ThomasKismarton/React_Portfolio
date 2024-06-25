@@ -10,17 +10,19 @@ export default function About() {
             <br className="hidden lg:inline-block" />
           </h1>
           <p className="mb-8 leading-relaxed">
-            Thanks for taking the time to view this portfolio page.
+            Data Analyst | Software Engineer | Cool Guy
+            <br/>
+            Greater Seattle-Bellevue Area
           </p>
           <div className="flex justify-center">
             <a
               href="#contact"
-              className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
+              className="inline-flex text-white border-2 border-color-gray-300 py-2 px-6 focus:outline-none hover:bg-orange-500 rounded text-lg">
               Get In Touch
             </a>
             <a
               href="#projects"
-              className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
+              className="ml-4 inline-flex text-white border-2 border-color-gray-300 py-2 px-6 focus:outline-none hover:bg-orange-500 rounded text-lg">
               Past Projects
             </a>
           </div>
