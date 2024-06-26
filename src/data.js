@@ -16,10 +16,10 @@ export const projects = [
     link: "https://google.com",
   },
   {
-    title: "",
+    title: "IBM Data Science Certificate",
     subtitle: "Data Analysis + Machine Learning",
     description:
-      "An IBM-guided project detailing the process of synthesizing, visualizing, and ultimately leveraging rocket launch data to construct a machine learning model.",
+      "An IBM-guided project for synthesizing, visualizing, & leveraging rocket data to construct a ML model.",
     image: "./GitHub_Repo.png",
     link: "https://github.com/ThomasKismarton/capstone_repo",
   },
@@ -28,8 +28,8 @@ export const projects = [
     subtitle: "Full-Stack Side Project",
     description:
       "Small scale side project to familiarize myself with Docker, SQL, Python, and REST APIs outside of a classroom environment.",
-    image: "./",
-    link: "https://google.com",
+    image: "./GitHub_Repo.png",
+    link: "https://github.com/ThomasKismarton/teamgen",
   },
 ];
 

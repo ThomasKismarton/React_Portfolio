@@ -13,6 +13,9 @@ module.exports = {
       yellow: colors.yellow,
       red: colors.red
     },
+    boxShadow:{
+      'glow-orange': '0 4px 6px -1px rgba(249, 115, 22, 0.7), 0 2px 4px -1px rgba(249, 115, 22, 0.2)'
+    },
     extend: {},
   },
   variants: {
