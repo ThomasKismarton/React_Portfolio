@@ -22,8 +22,8 @@ export default function Contact() {
                   ADDRESS
                 </h2>
                 <p className="mt-1">
-                  14408 NE 42nd Pl, Apt N903 <br />
-                  Bellevue, WA, 98007
+                  Based out of <br/>
+                  Redmond, Washington
                 </p>
               </div>
               <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
