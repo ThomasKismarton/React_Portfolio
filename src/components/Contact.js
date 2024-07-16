@@ -115,8 +115,8 @@ export default function Contact() {
             </div>
             <button
               type="submit"
-              className="inline-flex text-white border-2 border-color-gray-300 py-2 px-6
-              focus:outline-none transition duration-200 ease-out hover:bg-orange-500 rounded text-lg">
+              className="text-white py-2 px-6 focus:outline-none rounded text-lg border-2 
+              bg-orange-500 transition duration-100 ease-out hover:bg-orange-600">
               Submit
             </button>
           </form>
