@@ -5,7 +5,7 @@ export const projects = [
     description:
       "An interactive mapping project used to drive governance for Washington Youth Soccer boundaries.",
     image: "./Boundary_Map.png",
-    link: "https://google.com",
+    link: "https://github.com/ThomasKismarton/WYS-boundaries",
   },
   {
     title: "Uniform Distribution",
@@ -13,7 +13,7 @@ export const projects = [
     description:
       "Scripting and visualization for the management of uniform inventory.",
     image: "./Uniform_Dashboard.png",
-    link: "https://google.com",
+    link: "https://github.com/ThomasKismarton/Uniform_project",
   },
   {
     title: "IBM Data Science Certificate",
@@ -36,6 +36,8 @@ export const projects = [
 export const skills = [
   "JavaScript",
   "React",
+  "Excel",
+  "Process Streamlining",
   "Pandas",
   "Node",
   "Keras",
