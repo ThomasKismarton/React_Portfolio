@@ -10,28 +10,30 @@ export default function About() {
             <br className="hidden lg:inline-block" />
           </h1>
           <p className="mb-8 leading-relaxed">
-            Data Analyst | Software Engineer | Cool Guy
+            Data Analyst | Software Engineer | Operations Coordinator
             <br/>
             Greater Seattle-Bellevue Area
           </p>
           <div className="flex justify-center">
             <a
               href="#contact"
-              className="inline-flex text-white border-2 border-color-gray-300 py-2 px-6 focus:outline-none hover:bg-orange-500 rounded text-lg">
+              className="inline-flex text-white border-2 border-color-gray-300 py-2 px-6
+              focus:outline-none transition duration-200 ease-out hover:bg-orange-500 rounded text-lg">
               Get In Touch
             </a>
             <a
               href="#projects"
-              className="ml-4 inline-flex text-white border-2 border-color-gray-300 py-2 px-6 focus:outline-none hover:bg-orange-500 rounded text-lg">
+              className="ml-4 inline-flex text-white border-2 border-color-gray-300 py-2 px-6 
+              focus:outline-none transition duration-200 ease-out hover:bg-orange-500 rounded text-lg">
               Past Projects
             </a>
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
-            className="object-cover object-center rounded"
+            className="object-cover object-left rounded-lg"
             alt="hero"
-            src="./coding.svg"
+            src="./Portrait.jpg"
           />
         </div>
       </div>
